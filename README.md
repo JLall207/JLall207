@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLall207
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently studing programming
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me Julian.Lall@outlook.com
 
 <!---
