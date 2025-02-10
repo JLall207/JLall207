@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLall207
-- 🌱 I’m currently studing programming
-- 💞️ I’m looking to collaborate on game development
+- 🌱 I’m currently studing programming and working as a NOC Engineer
+- 💞️ I’m looking to collaborate on game development, learning opportunities, and more
 - 📫 How to reach me Julian.Lall@outlook.com
 
 <!---
