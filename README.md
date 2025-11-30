@@ -2,6 +2,7 @@
 - 🌱 I’m studing computer science and working as a NOC engineer for Systems Engineering
 - 💞️ I’m looking to collaborate on Java, Python, Scripting, and Game Development projects
 - 📫 How to reach me: Julian.Lall@outlook.com, https://www.linkedin.com/in/juliantlall
+
  
 <!---
 JLall207/JLall207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
